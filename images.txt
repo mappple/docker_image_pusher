@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 homeassistant/home-assistant:stable
 ydkn/cups:latest
+likeflyme/cloudbak:latest
